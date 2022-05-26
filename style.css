@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root {
+    Background: green;
+    primaryText: black;
+}
+main {
+    width: 95vw;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    width: 90%;
+}
+
+	
+}
+main .section-1 .nazwa{
+	display: flex;
+	justify-content: center;
+	font-size:99px;
+
+}
+
+main .section-1 .cosiek{
+	font-size: 48px;
+    font-family: 'Smooch', cursive;
+    font-weight: 700;
+}
+main .items .div .img{
+	display: flex;
+	width: 100%;
+	height: 100%;
+    border-radius: 90px;
+
+}
